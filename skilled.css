@@ -267,7 +267,7 @@ footer {
 
 
 
-@media (max-width:1250px) and (min-width:801px){
+@media (max-width:1250px) and (min-width:701px){
     .containerone {
         display: flex;
         justify-content: space-evenly;
@@ -295,7 +295,7 @@ footer {
 }
 
 
-    @media (max-width:800px) {
+    @media (max-width:700px) {
 
     header {
         height: 70px;
